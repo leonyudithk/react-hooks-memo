@@ -14,6 +14,7 @@ const NavBarsC = () => {
               <Link to="/">Home- memo</Link>
               <Link to="/hooks">useMemo</Link>
               <Link to="/calls">useCallback</Link>
+              <Link to="/ejemplo">Ejercicio Ind</Link>
             </Nav>
           </Navbar.Collapse>
         </Container>
